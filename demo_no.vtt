@@ -1,0 +1,53 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:3.000
+Hei alle sammen!
+
+2
+00:00:03.001 --> 00:00:6.000
+I dag skal jeg fortelle litt
+
+3
+00:00:06.001 --> 00:00:9.000
+om hvordan man kan jobbe med tekst 
+
+4
+00:00:09.001 --> 00:00:12.000
+skriftlig og muntlig på to språk
+
+5
+00:00:12.001 --> 00:00:14.000
+i HTML5.
+
+6
+00:00:14.001 --> 00:00:17.000
+Vi skal snakke litt om web-vtt, 
+
+7
+00:00:17.001 --> 00:00:19.000
+subtitles og captions, 
+
+8
+00:00:19.001 --> 00:00:22.000
+og hvordan man limer sammen dette med 
+
+9
+00:00:22.001 --> 00:00:25.000
+HTML5 i audio og video elmenter.
+
+10
+00:00:25.001 --> 00:00:28.000
+Og at man kan bruke JavaScript 
+
+11
+00:00:28.001 --> 00:00:31.000
+text-track API til å synkronisere 
+
+12
+00:00:31.001 --> 00:00:34.000
+tekstene til lyden på samme språk, og 
+
+13
+00:00:34.001 --> 00:00:37.000
+andre språk.
